@@ -1,2 +1,4 @@
-# Project-2-ASD-Kelompok-14-Kelas-B
-Project 2-ASD-Kelompok-14-Kelas-B
+Algoritma dan Struktur Data - B 
+Kelompok 14
+1. Alfina Prihartanti (5026241105)
+2. Aisyah Nabilah Putri (5026241141)
